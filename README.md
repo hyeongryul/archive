@@ -1,4 +1,4 @@
-torch  
+torch  (2.1.0 깔기)
 
 https://download.pytorch.org/whl/cpu/torch/
 
