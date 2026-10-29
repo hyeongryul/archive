@@ -53,3 +53,13 @@ get-east-asian-width: https://registry.npmjs.org/get-east-asian-width/-/get-east
 string-width: https://registry.npmjs.org/string-width/-/string-width-8.3.0.tgz
 
 strip-ansi: https://registry.npmjs.org/strip-ansi/-/strip-ansi-7.2.0.tgz
+
+
+
+lamma.cpp
+
+https://github.com/ggml-org/llama.cpp/releases
+
+에서 Windows x64 (Vulkan)
+
+llama-b11980-bin-win-vulkan-x64.zip
