@@ -21,7 +21,8 @@ LICENSE.txt
 tabpfn-v2-classifier-v2_default.ckpt
 29 MB
 
-
+tabpfn-v2-classifier-finetuned-gn2p4bpt-xp6f0iqb.ckpt
+12.9 MB
 
 https://huggingface.co/Prior-Labs/TabPFN-v2-reg/tree/main
 
@@ -31,8 +32,10 @@ LICENSE.txt
 tabpfn-v2-regressor-v2_default.ckpt
 44.4 MB
 
+tabpfn-v2-regressor-5wof9ojf.ckpt
+24 MB
 
-
+"Built with PriorLabs-TabPFN" 출처 표기 의무
 
 IMMER
 
