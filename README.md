@@ -1,9 +1,9 @@
-torch  (2.14.x)
+torch  (2.14.x) torch-2.14.x-cp311-cp311-win_amd64.whl
 
 https://download.pytorch.org/whl/cpu/torch/
 
 
-scipy 
+scipy  scipy-1.17.1-cp311-cp311-win_amd64.whl
 
 https://pypi.org/project/scipy/1.17.1/
 
