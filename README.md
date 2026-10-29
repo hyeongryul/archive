@@ -1,4 +1,4 @@
-torch  (2.1.0 깔기)
+torch  (2.14.x)
 
 https://download.pytorch.org/whl/cpu/torch/
 
@@ -9,13 +9,28 @@ https://pypi.org/project/scipy/1.17.1/
 
 
 
-tabpfn weights
+tabpfn weights 
 
-https://huggingface.co/Prior-Labs/tabpfn_3_5/blob/main/tabpfn-v3.5-20260909.safetensors
+TabPFN v2
 
-https://huggingface.co/Prior-Labs/tabpfn_3_5/blob/main/tabpfn-v3.5-20260909_multiclass.safetensors
+https://huggingface.co/Prior-Labs/TabPFN-v2-clf/tree/main
 
-https://huggingface.co/Prior-Labs/tabpfn_3_5/blob/main/tabpfn-v3.5-fast-20260909.safetensors
+LICENSE.txt
+11.5 kB
+
+tabpfn-v2-classifier-v2_default.ckpt
+29 MB
+
+
+
+https://huggingface.co/Prior-Labs/TabPFN-v2-reg/tree/main
+
+LICENSE.txt
+11.5 kB
+
+tabpfn-v2-regressor-v2_default.ckpt
+44.4 MB
+
 
 
 
